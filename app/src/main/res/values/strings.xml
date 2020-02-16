@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotificationCustomView</string>
+    <string name="show_notification">Show Notification</string>
+    <string name="title_of_the_notification">Misanthropist</string>
+    <string name="title_description_of_the_notification_in_expanded_mode_click_collapse_icon_to_collapse_it">we got your claim check status here.</string>
+    <string name="recent_claim">Recent claim</string>
+    <string name="title_of_the_notification_collapsed">Claim status</string>
+    <string name="title_description_of_the_notitification_in_collapsed_mode_click_expand_icon_to_expand_it">Check status of claim you just  submiited</string>
+</resources>
